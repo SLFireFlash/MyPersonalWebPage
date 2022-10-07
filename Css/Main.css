@@ -1,0 +1,19 @@
+*{
+    margin: auto;
+    padding: 0%;
+}
+
+
+.container-xl
+{
+    background-color:burlywood;
+}
+.left-logo img
+{
+    height: 100px;
+    width: 100px;
+}
+.nav-btns ul li
+{
+    display: inline-block;
+}
