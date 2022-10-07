@@ -1,19 +1,11 @@
-*{
-    margin: auto;
-    padding: 0%;
+.nav-item
+{
+  font-size: 25px;
+  padding-right: 5px;
 }
 
 
-.container-xl
+.navbar
 {
-    background-color:burlywood;
-}
-.left-logo img
-{
-    height: 100px;
-    width: 100px;
-}
-.nav-btns ul li
-{
-    display: inline-block;
-}
+    background-color:#4D77FF;
+} 
