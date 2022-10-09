@@ -1,34 +1,7 @@
-.nav-item 
+
+
+.propic
 {
-  font-size: 25px;
-  padding-right: 5px;
-}
-
-
-.navbar
-{
-    background-color: aqua;
-} 
-
-.navtit{
-  text-align: center;
-  text-transform: uppercase;
-  color: #4CAF50;
-  text-indent: 50px;
-  letter-spacing: 3px;
-}
-
-.navbtnef{
-  width: 100px;
-  background: lightseagreen;
-  float: right;
-  border:0px;
-  color:#fff;
-  box-shadow: 0 0 1px #ccc;
-  -webkit-transition-duration: 0.5s;
-  -webkit-transition-timing-function: linear;
-  box-shadow:0px 0 0 #31708f  inset;
-}
-.navbtnef:hover{
-  box-shadow:100px 0 0 #3c9ccc inset;
+  width: 350px !important;
+  height: 350px !important;
 }
